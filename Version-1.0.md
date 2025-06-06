@@ -4,7 +4,7 @@
 
 **1. Using this Standard Agreement**.
 
-**1.1. Standard Agreement**. This Bonterms Standard Agreement for Marketplace Transactions (Version 1.0) (“**Standard Agreement**”) sets forth the terms and conditions under which Provider makes available Subscriptions to its Cloud Service or Provider Software (each, a “**Product**”) offered through a Listing on the Marketplace. Provider may (i) make additions to or modifications of this Standard Agreement (“**Additional Terms**”) or (ii) add Attachments by stating as such in its Listing. Any Additional Terms and any Attachments are collectively referred to as “**Provider-Specific Terms.**” Capitalized terms are defined in context or in Section 20 (Definitions).
+**1.1. Standard Agreement**. This Bonterms Standard End User Agreement (Version 1.0) (“**Standard Agreement**”) sets forth the terms and conditions under which Provider makes available Subscriptions to its Cloud Service or Provider Software (each, a “**Product**”) offered through a Listing on the Marketplace. Provider may (i) make additions to or modifications of this Standard Agreement (“**Additional Terms**”) or (ii) add Attachments by stating as such in its Listing. Any Additional Terms and any Attachments are collectively referred to as “**Provider-Specific Terms.**” Capitalized terms are defined in context or in Section 20 (Definitions).
 
 **1.2. Entering the Agreement**. Customer and Provider agree to this Standard Agreement and any Provider-Specific Terms (collectively, the “**Agreement**”) upon Customer’s first entry into an Order (“**Effective Date**”).
 
