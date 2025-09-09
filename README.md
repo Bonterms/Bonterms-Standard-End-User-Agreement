@@ -31,7 +31,7 @@ You can read more about how the Atlassian Marketplace has implemented the Standa
 
 **4. Designate the Standard Agreement**. Using the functionality of the Marketplace, designate the Bonterms Standard Agreement for Marketplace Transactions as the end user agreement for your Product in the Listing.
 
-**5.Specify any Provider-Specific Terms**. Specify any Attachments you are adding to the Standard Agreement (such as an AUP, Security Measures, SLA or Support Policy) and any additions to or modifications of the Standard Agreement you are making (Additional Terms) in your Listing.
+**5. Specify any Provider-Specific Terms**. Specify any Attachments you are adding to the Standard Agreement (such as an AUP, Security Measures, SLA or Support Policy) and any additions to or modifications of the Standard Agreement you are making (Additional Terms) in your Listing.
 
 ## As a Marketplace:
 
